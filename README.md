@@ -57,7 +57,7 @@ Role: Frontend Developer
 
 ---
 
-### [Veeva](ttps://www.veeva.com/)
+### [Veeva](https://www.veeva.com/)
 _12/2020 – 08/2023 (2.7 Years)_  
 Role: Frontend Developer  
 
